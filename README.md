@@ -20,7 +20,7 @@ TicTacToe is a classic game of strategy and wits, designed for both single and t
 ## Getting Started
 
 Follow these instructions to get TicTacToe up and running on your local machine.
-To access the main file... >> TicTacToe >> src >> TicTacToe.java
+To access the main file... >> TicTacToe >> src >> tictactoe >> TicTacToe.java
 
 ### Prerequisites
 
